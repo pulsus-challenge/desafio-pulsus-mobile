@@ -9,7 +9,7 @@ Nesta etapa pedimos para que você desenvolva um aplicativo simples na linguagem
  O importante não é a quantidade de código e funcionalidades no aplicativo, mas sim, a *qualidade!*
 
 ## Entrega
-Usar esse repositório como um template para a criação de um repositório *privado* no GitHub e adicionar `@glevandowski` e `@fwgusberti` como colaborador. 
+Usar esse repositório como um template para a criação de um repositório *privado* no GitHub e adicionar `@glevandowski`, `@fwgusberti` e `@davimenegotto` como colaborador. 
 - https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
 
  Você terá 5 dias a combinar para disponibilizar o código. Não se sinta pressionado pelo tempo, dê o melhor de si, apresente o que você sabe e conseguir desenvolver neste tempo. Novamente, o principal critério é qualidade!
