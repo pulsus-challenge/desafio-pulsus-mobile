@@ -12,7 +12,7 @@ Nesta etapa pedimos para que você desenvolva um aplicativo simples na linguagem
 Usar esse repositório como um template para a criação de um repositório *privado* no GitHub e adicionar `@glevandowski`, `@fwgusberti` e `@davimenegotto` como colaborador. 
 - https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
 
- Você terá 5 dias a combinar para disponibilizar o código. Não se sinta pressionado pelo tempo, dê o melhor de si, apresente o que você sabe e conseguir desenvolver neste tempo. Novamente, o principal critério é qualidade!
+Não se sinta pressionado pelo tempo, dê o melhor de si, apresente o que você sabe e conseguir desenvolver neste tempo. Novamente, o principal critério é qualidade!
 
 Após a criação do repositório utilizando o template, finalizado as atribuições de permissões ao mesmo e combinado a data de entrega; 
 já pode dar início ao desafio 😊
