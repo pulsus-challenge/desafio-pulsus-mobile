@@ -14,7 +14,7 @@ Usar esse repositório como um template para a criação de um repositório *pri
 
 Não se sinta pressionado pelo tempo, dê o melhor de si, apresente o que você sabe e conseguir desenvolver neste tempo. Novamente, o principal critério é qualidade!
 
-Após a criação do repositório utilizando o template, finalizado as atribuições de permissões ao mesmo e combinado a data de entrega; 
+Após a criação do repositório utilizando o template, finalizado as atribuições de permissões ao mesmo e combinado a entrega; 
 já pode dar início ao desafio 😊
 
 ## Tecnologias
