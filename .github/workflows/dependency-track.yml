@@ -28,4 +28,3 @@ jobs:
             -F "projectName=${{ github.event.repository.name }}" \
             -F "projectVersion=${{ github.head_ref }}" \
             -F "bom=@bom.xml"
-
