@@ -1,10 +1,10 @@
 # Desafio Mobile da Pulsus
 Chegou a hora de você conhecer um pouquinho sobre as tecnologias que utilizamos aqui na Pulsus 🧡
  
-Nesta etapa pedimos para que você desenvolva um aplicativo simples na linguagem Kotlin, utilizando a api https://api.chucknorris.io.
+Nesta etapa pedimos para que você desenvolva um aplicativo simples na linguagem Kotlin, utilizando o gist `https://gist.githubusercontent.com/fwgusberti/4c00601f5fcd407b88d549dbfbbc6d23/raw/5e66bbefa89dd16a4be1394df7a7b3f262bbd9b9/MovieList`.
 
 ## O que esperamos?
- Esperamos ver os itens (`jokes`) em tela, no formato de lista. Você é livre para explorar o aplicativo e possibilidades de uso da api da melhor forma que desejar, o objetivo é ter uma pequena amostra de como você trabalha, quais são suas referências e práticas. 
+ Esperamos ver os itens (`filmes`) em tela, no formato de lista. Você é livre para explorar o aplicativo e possibilidades de uso da api da melhor forma que desejar, o objetivo é ter uma pequena amostra de como você trabalha, quais são suas referências e práticas. 
  
  O importante não é a quantidade de código e funcionalidades no aplicativo, mas sim, a *qualidade!*
 
@@ -22,7 +22,7 @@ Recomendamos algumas tecnologias que usamos aqui na Pulsus. Sendo:
 * Retrofit
 * Coroutines
 * Architecture Components
-* Injeção de dependências
+* Dagger Hilt
 
 ## O que será avaliado:
 
