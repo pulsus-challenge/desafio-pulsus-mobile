@@ -22,7 +22,7 @@ Recomendamos algumas tecnologias que usamos aqui na Pulsus. Sendo:
 * Retrofit
 * Coroutines
 * Architecture Components
-* Dagger Hilt
+* Injeção de dependências
 
 ## O que será avaliado:
 
